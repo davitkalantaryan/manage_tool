@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/quit_pik.png</file>
+        <file>img/column.png</file>
+    </qresource>
+</RCC>
